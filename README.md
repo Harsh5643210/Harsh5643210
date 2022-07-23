@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Vishesh Store
+- 🔭 I’m currently working on Digital Media Services
 - 🌱 I’m currently learning python
 - 🤔 I’m looking for help with Digital Marketing
 - 💬 Ask me about Any ott services
