@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Vishesh Store
+- 🌱 I’m currently learning python
+- 🤔 I’m looking for help with Digital Marketing
+- 💬 Ask me about Any ott services
+- 📫 How to reach me: hs78102@gmail.com
+- ⚡ Fun fact: Just learn to live alone
 <!--
 **Harsh5643210/Harsh5643210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
