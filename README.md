@@ -1,10 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Digital Media Services
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with Digital Marketing
-- 💬 Ask me about Any ott services
-- 📫 How to reach me: hs78102@gmail.com
-- ⚡ Fun fact: Just learn to live alone
+- Software Engineer Intern dedicated to improving skills through hands-on learning and development work. Proficient in AWS and CI CD PIPELINE. Adept at using Linux, Jenkins and other Devops tools to produce clean deployment. Well-organized and collaborative team player with strong communication and analytical abilities.
 <!--
 **Harsh5643210/Harsh5643210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
